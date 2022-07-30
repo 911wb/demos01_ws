@@ -10,6 +10,7 @@
 
 
 #include "ros/ros.h"
+#include <iostream>
 
 
 
@@ -23,7 +24,7 @@ int main(int argc,char *argv[])
 
 
 	// 4.输出日志
-	ROS_INFO("hello ROS");
+	ROS_INFO("hello ROS hello git");
 
 
 	return 0;
